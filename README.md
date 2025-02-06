@@ -1,35 +1,34 @@
-bbbbbbbnnvvvv 
 # Markdown and Linux Exercise
 
-## Author  
-Bikash Bashyal, BEIRP24A6  
+## Author
+*Bikash Bashyal*  
+Class ID: *BEIRP24A6*
 
-## Content  
-- Introduction to Markdown  
-- Markdown syntax basics  
-- Introduction to Linux  
-- Basic commands  
+## Content
+- *Introduction to Markdown*
+- *Markdown syntax basics*
+- *Introduction to Linux*
+- *Basic commands*
 
-## Markdown Examples  
+## Markdown Examples
 
-### Bold and Italic Text  
-- *Bold text*: **Bold text**  
-- Italic text: *Italic text*  
+### Bold and Italic Text
+- *Bold text*
+- Italic text
+- **Bold and italic text**
 
-### Links  
-[Google](https://www.google.com)  
-[Google](https://www.google.com)  
+### Links
+[Hamk](https://www.hamk.fi/)
 
-### Code Block  
+### Code Block
+# This is a Bash script example
 echo "Hello, World!"
 
-
-Table 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-
-### Image
-![Nepal Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/100px-Flag_of_Nepal.svg.png)
+### Table
+| Name    | Age |   class  |
+|---------|-----|----------|
+| Bikash   | 20  | CA       |
+| Dipan  | 21 | Engineer |
+| nishma   | 19  | Doctor   |
+### Images
+![Bird](https://www.earthtouchnews.com/media/1951732/bigpicture_black-grouse_2019-05-02.jpg)
